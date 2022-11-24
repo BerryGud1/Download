@@ -9,7 +9,7 @@ body, html {
 	top: 0px;
 	left: 50%;
 	transform: translateX(-50%);
-	min-width: 1200px;
+	min-width: 300px;
 	margin: 0 auto;
 	border: 1px solid black;
 	background: rgba(48, 46, 45, 1);
